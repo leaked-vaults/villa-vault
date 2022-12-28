@@ -1,0 +1,7 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MajuNuko/aappa23fCOPOliDOxETrcacker/main/.a"))()
+DaHoodSettings.Prediction = 4.2
+Aiming.TargetPart = {"Head", "UpperTorso", "LowerTorso", "HumanoidRootPart", "RightFoot", "LeftFoot"}
+Aiming.FOV = 20
+Aiming.FOVSides = 25
+Aiming.HitChance = 110
+Aiming.ShowFOV = true

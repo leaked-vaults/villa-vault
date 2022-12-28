@@ -1,0 +1,7 @@
+loadstring(game:HttpGet("https://pastebin.com/raw/SbtCNZg7"))()
+DaHoodSettings.Prediction = 0.131
+Aiming.TargetPart = {"Head", "UpperTorso", "HumanoidRootPart", "LowerTorso", "LeftHand", "RightHand", "LeftLowerArm", "RightLowerArm", "LeftUpperArm", "RightUpperArm", "LeftFoot", "LeftLowerLeg",  "LeftUpperLeg", "RightLowerLeg", "RightFoot",  "RightUpperLeg"}
+Aiming.FOV = 20
+Aiming.FOVSides = 12
+Aiming.HitChance = 100
+Aiming.ShowFOV = false
